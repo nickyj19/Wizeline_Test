@@ -1,0 +1,6 @@
+Utest/utility/Utilities.class
+Utest/objectRepository/OR_SignUp.class
+Utest/pages/BasePage.class
+Utest/pages/SignUpPage.class
+Utest/runner/Runner.class
+Utest/steps/SignUpSteps.class

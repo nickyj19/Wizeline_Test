@@ -1,11 +1,11 @@
 # Wizeline_Test
 
 - Environments:
- + macOSversion: Mojave - version 10.14.5.
- + ChromeDriver version: Version 80.0.3987.106 (Official Build) (64-bit).
- + Programming Language & Tools: Java, Eclipse IDE for Java Developers (Version: 2019-12 (4.14.0)).
- + Others version like Junit... you can check on "pom.xml" file.
- + Project Type: Maven Project.
+ 1. macOSversion: Mojave - version 10.14.5.
+ 2. ChromeDriver version: Version 80.0.3987.106 (Official Build) (64-bit).
+ 3. Programming Language & Tools: Java, Eclipse IDE for Java Developers (Version: 2019-12 (4.14.0)).
+ 4. Others version like Junit... you can check on "pom.xml" file.
+ 5. Project Type: Maven Project.
 
 - I created a BDD framework with the structure like below:
  1. Folder features contains all feature files.
@@ -23,7 +23,7 @@
    Scenario 2: invalid email with 2 examples data.
    
 - My final testing results:
- + 3 Scenarios (3 passed)
- + 21 Steps (21 passed)
- + 0m44.652s
+  1. 3 Scenarios (3 passed)
+  2. 21 Steps (21 passed)
+  3. 0m44.652s
 
